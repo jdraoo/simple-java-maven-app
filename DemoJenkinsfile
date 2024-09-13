@@ -7,7 +7,7 @@ stages {
 stage( 'checkout' )
 { 
 steps{  
-git credentialsId: '761c458c-8581-4345-b714-693da760e88e', url: 'https://github.com/jdraoo/simple-java-maven-app.git'
+git credentialsId: '6af17e5b-6beb-4ea0-99be-95afa176d456', url: 'https://github.com/jdraoo/simple-java-maven-app.git'
 }
 }
 
